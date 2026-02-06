@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Core-Logic-Labs/.github/main/assets/logo.png" width="120" alt="Core Logic Labs Logo" />
-</p>
+<br/>
 
 <h1 align="center">Organization Idea Pool</h1>
 
